@@ -1,4 +1,4 @@
 # 调剂
 学校 | 专业 | 详情页 | 投递时间
 ---------| ------------- | ------------| ---------
-军事科学院 | 病理生理学学硕 | [go](http://www.dxy.cn/bbs/topic/40555143?source=rss?_blank) | 2.21
+军事科学院 | 病理生理学学硕 | <a>123</a>[go](http://www.dxy.cn/bbs/topic/40555143?source=rss?_blank) | 2.21
