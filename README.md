@@ -5,7 +5,6 @@
 海南医学院 | 未发布 | <a href="http://www.chinakaoyan.com/info/article/id/275677.shtml" target="_blank">go</a> | 待定
 滨州医学院 | 自选 | <a href="http://www.chinakaoyan.com/info/article/id/275901.shtml" target="_blank">go</a> | 待定
 江南大学无锡医学院 | 自选 | <a href="http://wxms.jiangnan.edu.cn/info/1071/4045.htm" target="_blank">go</a> | 待定
-
 军事科学院（天津） | 自选 | zhigangqiu99@126.com | 2月25
 中央名族大学 | 自选 | mucTNS@163.com | 2月24
 青岛大学 | 自选 | zhongliuyike@163.com | 2月24
